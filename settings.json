@@ -1,7 +1,7 @@
 {
     "tab_size": 4,
     "scrollbar": {
-        "show": "system",
+        "show": "auto",
     },
     "gutter": {
         "min_line_number_digits": 1,
@@ -165,34 +165,28 @@
                 "phpantom",
                 "emmet-language-server",
                 "tailwindcss-language-server",
-                "!intelephense",
-                "!phpactor",
-                "!phptools",
             ],
         },
-        // "Blade": {
-        //     "language_servers": [
-        //         "phpantom",
-        //         "!intelephense",
-        //         "!phpactor",
-        //         "!phptools",
-        //         "tailwindcss-language-server",
-        //         "emmet-language-server",
-        //     ],
-        // },
+        "Blade": {
+            "language_servers": [
+                "phpantom",
+                "emmet-language-server",
+                "tailwindcss-language-server",
+            ],
+        },
     },
-    // "file_types": {
-    //     "Blade": ["*.blade.php"],
-    // },
-    // "lsp": {
-    //     "tailwindcss-language-server": {
-    //         "settings": {
-    //             "tailwindCSS": {
-    //                 "includeLanguages": {
-    //                     "Blade": "html"
-    //                 }
-    //             }
-    //         },
-    //     },
-    // },
+    "file_types": {
+        "Blade": ["*.blade.php"],
+    },
+    "lsp": {
+        "tailwindcss-language-server": {
+            "settings": {
+                "tailwindCSS": {
+                    "includeLanguages": {
+                        "Blade": "html",
+                    },
+                },
+            },
+        },
+    },
 }

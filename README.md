@@ -3,6 +3,7 @@ Zed Configuration
 Extensions
 - HTML
 - PHP
+- Blade
 - Material Icon Theme
 - Emmet
 - One Dark Pro
@@ -14,4 +15,3 @@ Useful links
 
 Notes
 - The php lsp not using the official laravel, not good yet, instead it use PHPantom.
-- Not using [Blade] (https://github.com/bajrangCoder/zed-laravel-blade) languages and grammar, it still mess up the commenting php code on livewire single page files, it treat the blade file as pure blade, also the php code is treated as blade.
