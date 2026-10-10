@@ -1,0 +1,764 @@
+{
+    "Docs index blade component": {
+        "prefix": "docs",
+        "body": [
+            "<x-docs$1>$0</x-docs>"
+        ]
+    },
+    "Docs heading blade component": {
+        "prefix": "docs.heading",
+        "body": [
+            "<x-docs.heading$1>$0</x-docs.heading>"
+        ]
+    },
+    "Docs subheading blade component": {
+        "prefix": "docs.subheading",
+        "body": [
+            "<x-docs.subheading$1>$0</x-docs.subheading>"
+        ]
+    },
+    "Docs text blade component": {
+        "prefix": "docs.text",
+        "body": [
+            "<x-docs.text$1>$0</x-docs.text>"
+        ]
+    },
+    "Button index blade component": {
+        "prefix": "button",
+        "body": [
+            "<x-button$1>$0</x-button>"
+        ]
+    },
+    "Button group blade component": {
+        "prefix": "button.group",
+        "body": [
+            "<x-button.group$1>$0</x-button.group>"
+        ]
+    },
+    "Input blade component": {
+        "prefix": "input",
+        "body": [
+            "<x-input$1>$0</x-input>"
+        ]
+    },
+    "Input clearable blade component": {
+        "prefix": "input.clearable",
+        "body": [
+            "<x-input clearable$1>$0</x-input>"
+        ]
+    },
+    "Input copyable blade component": {
+        "prefix": "input.copyable",
+        "body": [
+            "<x-input copyable$1>$0</x-input>"
+        ]
+    },
+    "Input viewable blade component": {
+        "prefix": "input.viewable",
+        "body": [
+            "<x-input viewable$1>$0</x-input>"
+        ]
+    },
+    "Input group blade component": {
+        "prefix": "input.group",
+        "body": [
+            "<x-input.group$1>$0</x-input.group>"
+        ]
+    },
+    "Input prefix blade component": {
+        "prefix": "input.prefix",
+        "body": [
+            "<x-input.prefix$1>$0</x-input.prefix>"
+        ]
+    },
+    "Input affix blade component": {
+        "prefix": "input.affix",
+        "body": [
+            "<x-input.affix$1>$0</x-input.affix>"
+        ]
+    },
+    "Input suffix blade component": {
+        "prefix": "input.suffix",
+        "body": [
+            "<x-input.suffix$1>$0</x-input.suffix>"
+        ]
+    },
+    "Checkbox blade component": {
+        "prefix": "checkbox",
+        "body": [
+            "<x-checkbox$1>$0</x-checkbox>"
+        ]
+    },
+    "Checkbox button blade component": {
+        "prefix": "checkbox.button",
+        "body": [
+            "<x-checkbox variant=\"button\"$1>$0</x-checkbox>"
+        ]
+    },
+    "Checkbox card blade component": {
+        "prefix": "checkbox.card",
+        "body": [
+            "<x-checkbox variant=\"card\"$1>$0</x-checkbox>"
+        ]
+    },
+    "Checkbox pill blade component": {
+        "prefix": "checkbox.pill",
+        "body": [
+            "<x-checkbox variant=\"pill\"$1>$0</x-checkbox>"
+        ]
+    },
+    "Checkbox group blade component": {
+        "prefix": "checkbox.group",
+        "body": [
+            "<x-checkbox.group$1>$0</x-checkbox.group>"
+        ]
+    },
+    "Checkbox group button blade component": {
+        "prefix": "checkbox.group.button",
+        "body": [
+            "<x-checkbox.group variant=\"button\"$1>$0</x-checkbox.group>"
+        ]
+    },
+    "Checkbox group card blade component": {
+        "prefix": "checkbox.group.card",
+        "body": [
+            "<x-checkbox.group variant=\"card\"$1>$0</x-checkbox.group>"
+        ]
+    },
+    "Checkbox group pill blade component": {
+        "prefix": "checkbox.group.pill",
+        "body": [
+            "<x-checkbox.group variant=\"pill\"$1>$0</x-checkbox.group>"
+        ]
+    },
+    "Radio blade component": {
+        "prefix": "radio",
+        "body": [
+            "<x-radio$1>$0</x-radio>"
+        ]
+    },
+    "Radio button blade component": {
+        "prefix": "radio.button",
+        "body": [
+            "<x-radio variant=\"button\"$1>$0</x-radio>"
+        ]
+    },
+    "Radio card blade component": {
+        "prefix": "radio.card",
+        "body": [
+            "<x-radio variant=\"card\"$1>$0</x-radio>"
+        ]
+    },
+    "Radio pill blade component": {
+        "prefix": "radio.pill",
+        "body": [
+            "<x-radio variant=\"pill\"$1>$0</x-radio>"
+        ]
+    },
+    "Radio segmented blade component": {
+        "prefix": "radio.segmented",
+        "body": [
+            "<x-radio variant=\"segmented\"$1>$0</x-radio>"
+        ]
+    },
+    "Radio group blade component": {
+        "prefix": "radio.group",
+        "body": [
+            "<x-radio.group$1>$0</x-radio.group>"
+        ]
+    },
+    "Radio group button blade component": {
+        "prefix": "radio.group.button",
+        "body": [
+            "<x-radio.group variant=\"button\"$1>$0</x-radio.group>"
+        ]
+    },
+    "Radio group card blade component": {
+        "prefix": "radio.group.card",
+        "body": [
+            "<x-radio.group variant=\"card\"$1>$0</x-radio.group>"
+        ]
+    },
+    "Radio group pill blade component": {
+        "prefix": "radio.group.pill",
+        "body": [
+            "<x-radio.group variant=\"pill\"$1>$0</x-radio.group>"
+        ]
+    },
+    "Radio group segmented blade component": {
+        "prefix": "radio.group.segmented",
+        "body": [
+            "<x-radio.group variant=\"segmented\"$1>$0</x-radio.group>"
+        ]
+    },
+    "Switch blade component": {
+        "prefix": "switch",
+        "body": [
+            "<x-switch$1>$0</x-switch>"
+        ]
+    },
+    "Toggle blade component": {
+        "prefix": "toggle",
+        "body": [
+            "<x-toggle$1>$0</x-toggle>"
+        ]
+    },
+    "Autocomplete index blade component": {
+        "prefix": "autocomplete",
+        "body": [
+            "<x-autocomplete$1>$0</x-autocomplete>"
+        ]
+    },
+    "Autocomplete item blade component": {
+        "prefix": "autocomplete.item",
+        "body": [
+            "<x-autocomplete.item$1>$0</x-autocomplete.item>"
+        ]
+    },
+    "Textarea blade component": {
+        "prefix": "textarea",
+        "body": [
+            "<x-textarea$1>$0</x-textarea>"
+        ]
+    },
+    "Accordion index blade component": {
+        "prefix": "accordion",
+        "body": [
+            "<x-accordion$1>$0</x-accordion>"
+        ]
+    },
+    "Accordion item blade component": {
+        "prefix": "accordion.item",
+        "body": [
+            "<x-accordion.item$1>$0</x-accordion.item>"
+        ]
+    },
+    "Accordion label blade component": {
+        "prefix": "accordion.label",
+        "body": [
+            "<x-accordion.label$1>$0</x-accordion.label>"
+        ]
+    },
+    "Accordion content blade component": {
+        "prefix": "accordion.content",
+        "body": [
+            "<x-accordion.content$1>$0</x-accordion.content>"
+        ]
+    },
+    "Minibar blade component": {
+        "prefix": "minibar",
+        "body": [
+            "<x-minibar$1>$0</x-minibar>"
+        ]
+    },
+    "Minibar expandable blade component": {
+        "prefix": "minibar.expandable",
+        "body": [
+            "<x-minibar name=\"$1\" expandable>$0</x-minibar>"
+        ]
+    },
+    "Minibar header blade component": {
+        "prefix": "minibar.header",
+        "body": [
+            "<x-minibar.header$1>$0</x-minibar.header>"
+        ]
+    },
+    "Minibar content blade component": {
+        "prefix": "minibar.content",
+        "body": [
+            "<x-minibar.content$1>$0</x-minibar.content>"
+        ]
+    },
+    "Minibar footer blade component": {
+        "prefix": "minibar.footer",
+        "body": [
+            "<x-minibar.footer$1>$0</x-minibar.footer>"
+        ]
+    },
+    "Minibar toggle blade component": {
+        "prefix": "minibar.toggle",
+        "body": [
+            "<x-minibar.toggle name=\"$1\">$0</x-minibar.toggle>"
+        ]
+    },
+    "Minibar open blade component": {
+        "prefix": "minibar.open",
+        "body": [
+            "<x-minibar.open name=\"$1\">$0</x-minibar.open>"
+        ]
+    },
+    "Minibar close blade component": {
+        "prefix": "minibar.close",
+        "body": [
+            "<x-minibar.close name=\"$1\">$0</x-minibar.close>"
+        ]
+    },
+    "Sidebar index blade component": {
+        "prefix": "sidebar",
+        "body": [
+            "<x-sidebar$1>$0</x-sidebar>"
+        ]
+    },
+    "Sidebar collapsible blade component": {
+        "prefix": "sidebar.collapsible",
+        "body": [
+            "<x-sidebar name=\"$1\" collapsible>$0</x-sidebar>"
+        ]
+    },
+    "Sidebar flyout blade component": {
+        "prefix": "sidebar.flyout",
+        "body": [
+            "<x-sidebar name=\"$1\" flyout breakpoint=\"${2:lg}\">$0</x-sidebar>"
+        ]
+    },
+    "Sidebar header blade component": {
+        "prefix": "sidebar.header",
+        "body": [
+            "<x-sidebar.header$1>$0</x-sidebar.header>"
+        ]
+    },
+    "Sidebar content blade component": {
+        "prefix": "sidebar.content",
+        "body": [
+            "<x-sidebar.content$1>$0</x-sidebar.content>"
+        ]
+    },
+    "Sidebar footer blade component": {
+        "prefix": "sidebar.footer",
+        "body": [
+            "<x-sidebar.footer$1>$0</x-sidebar.footer>"
+        ]
+    },
+    "Sidebar toggle blade component": {
+        "prefix": "sidebar.toggle",
+        "body": [
+            "<x-sidebar.toggle name=\"$1\">$0</x-sidebar.toggle>"
+        ]
+    },
+    "Sidebar open blade component": {
+        "prefix": "sidebar.open",
+        "body": [
+            "<x-sidebar.open name=\"$1\">$0</x-sidebar.open>"
+        ]
+    },
+    "Sidebar close blade component": {
+        "prefix": "sidebar.close",
+        "body": [
+            "<x-sidebar.close name=\"$1\">$0</x-sidebar.close>"
+        ]
+    },
+    "Header index blade component": {
+        "prefix": "header",
+        "body": [
+            "<x-header$1>$0</x-header>"
+        ]
+    },
+    "Header expandable blade component": {
+        "prefix": "header.expandable",
+        "body": [
+            "<x-header name=\"$1\" expandable breakpoint=\"${2:lg}\">$0</x-header>"
+        ]
+    },
+    "Header panel blade component": {
+        "prefix": "header.panel",
+        "body": [
+            "<x-header.panel$1>$0</x-header.panel>"
+        ]
+    },
+    "Header toggle blade component": {
+        "prefix": "header.toggle",
+        "body": [
+            "<x-header.toggle name=\"$1\">$0</x-header.toggle>"
+        ]
+    },
+    "Header open blade component": {
+        "prefix": "header.open",
+        "body": [
+            "<x-header.open name=\"$1\">$0</x-header.open>"
+        ]
+    },
+    "Header close blade component": {
+        "prefix": "header.close",
+        "body": [
+            "<x-header.close name=\"$1\">$0</x-header.close>"
+        ]
+    },
+    "Main blade component": {
+        "prefix": "main",
+        "body": [
+            "<x-main$1>$0</x-main>"
+        ]
+    },
+    "Aside blade component": {
+        "prefix": "aside",
+        "body": [
+            "<x-aside$1>$0</x-aside>"
+        ]
+    },
+    "Footer blade component": {
+        "prefix": "footer",
+        "body": [
+            "<x-footer$1>$0</x-footer>"
+        ]
+    },
+    "Container blade component": {
+        "prefix": "container",
+        "body": [
+            "<x-container$1>$0</x-container>"
+        ]
+    },
+    "Card blade component": {
+        "prefix": "card",
+        "body": [
+            "<x-card$1>$0</x-card>"
+        ]
+    },
+    "Heading blade component": {
+        "prefix": "heading",
+        "body": [
+            "<x-heading$1>$0</x-heading>"
+        ]
+    },
+    "Subheading blade component": {
+        "prefix": "subheading",
+        "body": [
+            "<x-subheading$1>$0</x-subheading>"
+        ]
+    },
+    "Text blade component": {
+        "prefix": "text",
+        "body": [
+            "<x-text$1>$0</x-text>"
+        ]
+    },
+    "Link blade component": {
+        "prefix": "link",
+        "body": [
+            "<x-link$1>$0</x-link>"
+        ]
+    },
+    "Field blade component": {
+        "prefix": "field",
+        "body": [
+            "<x-field$1>$0</x-field>"
+        ]
+    },
+    "Label blade component": {
+        "prefix": "label",
+        "body": [
+            "<x-label$1>$0</x-label>"
+        ]
+    },
+    "Description blade component": {
+        "prefix": "description",
+        "body": [
+            "<x-description$1>$0</x-description>"
+        ]
+    },
+    "Spacer blade component": {
+        "prefix": "spacer",
+        "body": [
+            "<x-spacer$1 />"
+        ]
+    },
+    "Icon blade component": {
+        "prefix": "icon",
+        "body": [
+            "<x-icon name=\"$1\"$2 />"
+        ]
+    },
+    "Tooltip blade component": {
+        "prefix": "tooltip",
+        "body": [
+            "<x-tooltip$1>$0</x-tooltip>"
+        ]
+    },
+    "Tooltip panel blade component": {
+        "prefix": "tooltip.panel",
+        "body": [
+            "<x-tooltip.panel$1>$0</x-tooltip.panel>"
+        ]
+    },
+    "Dropdown blade component": {
+        "prefix": "dropdown",
+        "body": [
+            "<x-dropdown$1>$0</x-dropdown>"
+        ]
+    },
+    "Menu index blade component": {
+        "prefix": "menu",
+        "body": [
+            "<x-menu$1>$0</x-menu>"
+        ]
+    },
+    "Menu sub blade component": {
+        "prefix": "menu.sub",
+        "body": [
+            "<x-menu.sub$1>$0</x-menu.sub>"
+        ]
+    },
+    "Menu item blade component": {
+        "prefix": "menu.item",
+        "body": [
+            "<x-menu.item$1>$0</x-menu.item>"
+        ]
+    },
+    "Menu group blade component": {
+        "prefix": "menu.group",
+        "body": [
+            "<x-menu.group$1>$0</x-menu.group>"
+        ]
+    },
+    "Menu label blade component": {
+        "prefix": "menu.label",
+        "body": [
+            "<x-menu.label$1>$0</x-menu.label>"
+        ]
+    },
+    "Menu separator blade component": {
+        "prefix": "menu.separator",
+        "body": [
+            "<x-menu.separator$1>$0</x-menu.separator>"
+        ]
+    },
+    "Menu radio group blade component": {
+        "prefix": "menu.radio.group",
+        "body": [
+            "<x-menu.radio.group$1>$0</x-menu.radio.group>"
+        ]
+    },
+    "Menu radio blade component": {
+        "prefix": "menu.radio",
+        "body": [
+            "<x-menu.radio$1>$0</x-menu.radio>"
+        ]
+    },
+    "Menu checkbox group blade component": {
+        "prefix": "menu.checkbox.group",
+        "body": [
+            "<x-menu.checkbox.group$1>$0</x-menu.checkbox.group>"
+        ]
+    },
+    "Menu checkbox blade component": {
+        "prefix": "menu.checkbox",
+        "body": [
+            "<x-menu.checkbox$1>$0</x-menu.checkbox>"
+        ]
+    },
+    "Navmenu index blade component": {
+        "prefix": "navmenu",
+        "body": [
+            "<x-navmenu$1>$0</x-navmenu>"
+        ]
+    },
+    "Navmenu item blade component": {
+        "prefix": "navmenu.item",
+        "body": [
+            "<x-navmenu.item$1>$0</x-navmenu.item>"
+        ]
+    },
+    "Popover blade component": {
+        "prefix": "popover",
+        "body": [
+            "<x-popover$1>$0</x-popover>"
+        ]
+    },
+    "Modal index blade component": {
+        "prefix": "modal",
+        "body": [
+            "<x-modal name=\"$1\">$0</x-modal>"
+        ]
+    },
+    "Modal toggle blade component": {
+        "prefix": "modal.toggle",
+        "body": [
+            "<x-modal.toggle name=\"$1\">$0</x-modal.toggle>"
+        ]
+    },
+    "Modal open blade component": {
+        "prefix": "modal.open",
+        "body": [
+            "<x-modal.open name=\"$1\">$0</x-modal.open>"
+        ]
+    },
+    "Modal close blade component": {
+        "prefix": "modal.close",
+        "body": [
+            "<x-modal.close name=\"$1\">$0</x-modal.close>"
+        ]
+    },
+    "Dialog index blade component": {
+        "prefix": "dialog",
+        "body": [
+            "<x-dialog$1>$0</x-dialog>"
+        ]
+    },
+    "Dialog header blade component": {
+        "prefix": "dialog.header",
+        "body": [
+            "<x-dialog.header$1>$0</x-dialog.header>"
+        ]
+    },
+    "Dialog content blade component": {
+        "prefix": "dialog.content",
+        "body": [
+            "<x-dialog.content$1>$0</x-dialog.content>"
+        ]
+    },
+    "Dialog footer blade component": {
+        "prefix": "dialog.footer",
+        "body": [
+            "<x-dialog.footer$1>$0</x-dialog.footer>"
+        ]
+    },
+    "Dialog heading blade component": {
+        "prefix": "dialog.heading",
+        "body": [
+            "<x-dialog.heading$1>$0</x-dialog.heading>"
+        ]
+    },
+    "Dialog subheading blade component": {
+        "prefix": "dialog.subheading",
+        "body": [
+            "<x-dialog.subheading$1>$0</x-dialog.subheading>"
+        ]
+    },
+    "Flyout index blade component": {
+        "prefix": "flyout",
+        "body": [
+            "<x-flyout$1>$0</x-flyout>"
+        ]
+    },
+    "Flyout header blade component": {
+        "prefix": "flyout.header",
+        "body": [
+            "<x-flyout.header$1>$0</x-flyout.header>"
+        ]
+    },
+    "Flyout content blade component": {
+        "prefix": "flyout.content",
+        "body": [
+            "<x-flyout.content$1>$0</x-flyout.content>"
+        ]
+    },
+    "Flyout footer blade component": {
+        "prefix": "flyout.footer",
+        "body": [
+            "<x-flyout.footer$1>$0</x-flyout.footer>"
+        ]
+    },
+    "Flyout heading blade component": {
+        "prefix": "flyout.heading",
+        "body": [
+            "<x-flyout.heading$1>$0</x-flyout.heading>"
+        ]
+    },
+    "Flyout subheading blade component": {
+        "prefix": "flyout.subheading",
+        "body": [
+            "<x-flyout.subheading$1>$0</x-flyout.subheading>"
+        ]
+    },
+    "Drawer index blade component": {
+        "prefix": "drawer",
+        "body": [
+            "<x-drawer$1>$0</x-drawer>"
+        ]
+    },
+    "Drawer header blade component": {
+        "prefix": "drawer.header",
+        "body": [
+            "<x-drawer.header$1>$0</x-drawer.header>"
+        ]
+    },
+    "Drawer content blade component": {
+        "prefix": "drawer.content",
+        "body": [
+            "<x-drawer.content$1>$0</x-drawer.content>"
+        ]
+    },
+    "Drawer footer blade component": {
+        "prefix": "drawer.footer",
+        "body": [
+            "<x-drawer.footer$1>$0</x-drawer.footer>"
+        ]
+    },
+    "Drawer heading blade component": {
+        "prefix": "drawer.heading",
+        "body": [
+            "<x-drawer.heading$1>$0</x-drawer.heading>"
+        ]
+    },
+    "Drawer subheading blade component": {
+        "prefix": "drawer.subheading",
+        "body": [
+            "<x-drawer.subheading$1>$0</x-drawer.subheading>"
+        ]
+    },
+    "Tab index blade component": {
+        "prefix": "tab",
+        "body": [
+            "<x-tab$1>$0</x-tab>"
+        ]
+    },
+    "Tab list blade component": {
+        "prefix": "tab.list",
+        "body": [
+            "<x-tab.list$1>$0</x-tab.list>"
+        ]
+    },
+    "Tab item blade component": {
+        "prefix": "tab.item",
+        "body": [
+            "<x-tab.item name=\"$1\">$0</x-tab.item>"
+        ]
+    },
+    "Tab panel blade component": {
+        "prefix": "tab.panel",
+        "body": [
+            "<x-tab.panel name=\"$1\">$0</x-tab.panel>"
+        ]
+    },
+    "Navrail index blade component": {
+        "prefix": "navrail",
+        "body": [
+            "<x-navrail$1>$0</x-navrail>"
+        ]
+    },
+    "Navrail item blade component": {
+        "prefix": "navrail.item",
+        "body": [
+            "<x-navrail.item$1>$0</x-navrail.item>"
+        ]
+    },
+    "Navbar index blade component": {
+        "prefix": "navbar",
+        "body": [
+            "<x-navbar$1>$0</x-navbar>"
+        ]
+    },
+    "Navbar item blade component": {
+        "prefix": "navbar.item",
+        "body": [
+            "<x-navbar.item$1>$0</x-navbar.item>"
+        ]
+    },
+    "Navlist index blade component": {
+        "prefix": "navlist",
+        "body": [
+            "<x-navlist$1>$0</x-navlist>"
+        ]
+    },
+    "Navlist item blade component": {
+        "prefix": "navlist.item",
+        "body": [
+            "<x-navlist.item$1>$0</x-navlist.item>"
+        ]
+    },
+    "Navlist group blade component": {
+        "prefix": "navlist.group",
+        "body": [
+            "<x-navlist.group$1>$0</x-navlist.group>"
+        ]
+    }
+}
