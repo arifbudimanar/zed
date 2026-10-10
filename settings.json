@@ -163,8 +163,8 @@
         "PHP": {
             "language_servers": [
                 "phpantom",
-                "emmet-language-server",
-                "tailwindcss-language-server",
+                // "emmet-language-server",
+                // "tailwindcss-language-server",
             ],
         },
         "Blade": {
