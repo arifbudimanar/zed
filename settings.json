@@ -156,8 +156,8 @@
     "base_keymap": "VSCode",
     "theme": {
         "mode": "system",
-        "light": "One Light",
-        "dark": "One Dark Pro",
+        "light": "JetBrains Islands Light",
+        "dark": "JetBrains Islands Dark",
     },
     "languages": {
         "PHP": {
