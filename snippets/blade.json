@@ -1,4 +1,61 @@
 {
+    "Docs index blade component": {
+        "prefix": "docs",
+        "body": ["<x-docs$1>$0</x-docs>"]
+    },
+    "Docs heading blade component": {
+        "prefix": "docs.heading",
+        "body": ["<x-docs.heading$1>$0</x-docs.heading>"]
+    },
+    "Docs subheading blade component": {
+        "prefix": "docs.subheading",
+        "body": ["<x-docs.subheading$1>$0</x-docs.subheading>"]
+    },
+    "Docs text blade component": {
+        "prefix": "docs.text",
+        "body": ["<x-docs.text$1>$0</x-docs.text>"]
+    },
+    "Preview blade component": {
+        "prefix": "preview",
+        "body": [
+            "<x-preview>",
+            "    <x-preview.content>",
+            "        $1",
+            "    </x-preview.content>",
+            "    <x-preview.code>",
+            "        @verbatim",
+            "            $0",
+            "        @endverbatim",
+            "    </x-preview.code>",
+            "</x-preview>"
+        ]
+    },
+    "Preview index blade component": {
+        "prefix": "preview.index",
+        "body": [
+            "<x-preview$1>",
+            "    $0",
+            "</x-preview>"
+        ]
+    },
+    "Preview content blade component": {
+        "prefix": "preview.content",
+        "body": [
+            "<x-preview.content$1>",
+            "    $0",
+            "</x-preview.content>"
+        ]
+    },
+    "Preview code blade component": {
+        "prefix": "preview.code",
+        "body": [
+            "<x-preview.code$1>",
+            "    @verbatim",
+            "        $0",
+            "    @endverbatim",
+            "</x-preview.code>"
+        ]
+    },
     "Button index blade component": {
         "prefix": "button",
         "body": ["<x-button$1>$0</x-button>"]
